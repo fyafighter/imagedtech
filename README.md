@@ -1,1 +1,1 @@
-# This is the first of our experiements around xviewdataset.org
+# This is the first of our experiments around xviewdataset.org
