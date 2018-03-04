@@ -1,0 +1,13 @@
+{
+  "name": "imagedtech",
+  "version": "0.0.1",
+  "description": "Imagedtech.com",
+  "author": "Christopher Johnson <cwjohnso@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
